@@ -1,0 +1,3 @@
+include geo2wall/shp/*
+include geo2wall/kml/*
+include geo2wall/dxf/*
