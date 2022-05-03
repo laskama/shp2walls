@@ -6,10 +6,10 @@ with open('requirements.txt') as f:
 setup(
     name='geo2wall',
     version='0.0.1',
-    url='https://git.rwth-aachen.de/marius.laska/shp2walls.git',
+    url='https://github.com/laskama/shp2walls',
     author='Marius Laska',
     author_email='marius.laska@rwth-aachen.de',
-    description='Description of my package',
+    description='This package extract the walls of a building model stored as georeferenced file (e.g. .shp, or .kml)',
     packages=find_packages(),
     include_package_data=True,
     install_requires=requirements,
