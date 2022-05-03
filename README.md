@@ -3,7 +3,7 @@
 ### Installation
 Installation via virtual environment is recommended
 ```shell
-pip install git+ssh://git@github.com/laskama/shp2walls.git
+pip install git+https://github.com/laskama/shp2walls.git
 ```
 
 ### Usage
